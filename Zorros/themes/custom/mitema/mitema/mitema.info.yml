@@ -1,0 +1,22 @@
+name: Mi tema
+description: Tema de ejemplo
+type: theme
+base theme: false
+core_version_requirement: ^8 || ^9 || ^10
+
+libraries:
+  - mitema/mibiblioteca
+  - mitema/bootstrap
+
+regions:
+
+  header: 'Encabezado'
+  content: 'Contenido principal'
+  promocion: 'Carrusel'
+  nosotros: 'Sobre Nosotros'
+  directivos: 'Directivos'
+  noticias: 'noticias'
+  footer1: 'Pie de pagina1'
+  footer2: 'Pie de pagina2'
+  footer3: 'Pie de pagina3'
+  footer4: 'Pie de pagina4'

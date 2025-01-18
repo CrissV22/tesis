@@ -11,11 +11,11 @@ libraries:
 regions:
 
   header: 'Encabezado'
-  content: 'Contenido principal'
-  promocion: 'Carrusel'
   nosotros: 'Sobre Nosotros'
   directivos: 'Directivos'
   noticias: 'noticias'
+  gallery: 'Gallery'
+  content: 'Contenido principal'
   footer1: 'Pie de pagina1'
   footer2: 'Pie de pagina2'
   footer3: 'Pie de pagina3'

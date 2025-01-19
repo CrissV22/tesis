@@ -1,0 +1,21 @@
+.region-header {
+  background-image: url(../images/promocion/portada.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  width: 100%;
+  background-size: cover; }
+  .region-header .block_menu {
+    background-color: transparent;
+    padding: 30px 0; }
+    .region-header .block_menu ul {
+      display: flex;
+      justify-content: flex-end; }
+      .region-header .block_menu ul li {
+        list-style: none;
+        margin-right: 25px; }
+        .region-header .block_menu ul li a {
+          text-decoration: none; }
+
+/*# sourceMappingURL=region-encabezado.css.map */

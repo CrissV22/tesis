@@ -23,6 +23,7 @@
         "drupal/core-recommended": "^10.3",
         "drupal/core-vendor-hardening": "^10.3",
         "drupal/field_formatter_class": "^1.8",
+        "drupal/twig_tweak": "^3.4",
         "drupal/youtube": "^2.0"
     },
     "conflict": {

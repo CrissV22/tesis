@@ -2,6 +2,7 @@ mibiblioteca:
  css:
   theme:
    css/style.css: {}
+   css/region-encabezado.css: {}
  js:
   js/main.js: {}
  dependencies:
